@@ -15,7 +15,7 @@ body {
 
 /* Encabezado */
 header {
-    background-color: #333;
+    background-color: #24ec2b;
     color: #fff;
     padding: 1em 0;
     text-align: center;
@@ -31,7 +31,7 @@ main {
 
 /* Pie de página */
 footer {
-    background-color: #333;
+    background-color: #f911b3;
     color: #fff;
     padding: 1em 0;
     text-align: center;
